@@ -2,8 +2,8 @@
 import axios from 'axios';
 import * as types from './mutation-types';
 
-// axios.defaults.baseURL = 'http://127.0.0.1:8000/'; // for local api python
-axios.defaults.baseURL = 'https://swapi.dev/api/'; // for origninal API
+axios.defaults.baseURL = 'http://127.0.0.1:8000/'; // for local api python
+// axios.defaults.baseURL = 'https://swapi.dev/api/'; // for origninal API
 
 const addIdsToObjects = (data) => data.map((obj) => {
   // Strip id from url property and add it to object
