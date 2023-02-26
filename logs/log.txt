@@ -1,0 +1,5 @@
+2023-02-27 01:40:25,506 INFO django.utils.autoreload Watching for file changes with StatReloader
+2023-02-27 01:47:17,644 INFO django.utils.autoreload C:\Users\OLINQUA\Documents\GitHub\starwars\backend\starwarstasks\models.py changed, reloading.
+2023-02-27 01:47:25,762 INFO django.utils.autoreload Watching for file changes with StatReloader
+2023-02-27 01:47:47,847 INFO django.utils.autoreload C:\Users\OLINQUA\Documents\GitHub\starwars\backend\starwarstasks\models.py changed, reloading.
+2023-02-27 01:47:52,741 INFO django.utils.autoreload Watching for file changes with StatReloader
