@@ -27,6 +27,8 @@ pip install -r resuirements.txt
 ```
 python manage.py runserver
 ```
+To see the documentation
+http://localhost:8000/redoc/
 
 # Frontend
 ## Create a Vue Project

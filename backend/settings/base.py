@@ -120,7 +120,6 @@ CORS_ALLOW_CREDENTIALS = True
 CORS_ALLOWED_ORIGINS = ("http://localhost:8000","http://localhost:8080")
 
 LOG_FILE_NAME = os.path.join(BASE_DIR, 'logs')+ '\\'+'log.txt'
-print(LOG_FILE_NAME)
 
 LOGGING = {
     'version': 1,
